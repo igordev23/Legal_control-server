@@ -13,7 +13,7 @@ const PORT = process.env.PORT || 3000;
 const allowedOrigins = [
   'https://process-portal.onrender.com',
   'https://preview--client-process-portal.lovable.app',
-  'http://192.168.1.9:8080'
+  'http://192.168.1.5:8080'
 ];
 
 
